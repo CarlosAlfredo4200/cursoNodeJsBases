@@ -1,0 +1,6 @@
+hola 
+este fichero 
+tiene 4 lines
+
+npm install -g learnyounode
+node my-first-io.js texto.txt
